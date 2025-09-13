@@ -1,4 +1,4 @@
-**DDoS Tool by vantixt**
+**DDoS Tool by OxDEAD0DE**
 ![Image Alt](https://github.com/OxDEAD0DE/crylux/blob/main/crylux%20pic.png)
 
 
